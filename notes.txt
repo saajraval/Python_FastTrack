@@ -1,0 +1,3 @@
+Types of Data types in python :
+-> Numeric  :  int , float , complex
+-> Non Number / collection  : str , list , tuples , set  , frozen set , dictionary
